@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gif-guide/static/css/main.25485dcf.css",
+    "main.js": "/Gif-guide/static/js/main.b348dc4d.js",
+    "index.html": "/Gif-guide/index.html",
+    "main.25485dcf.css.map": "/Gif-guide/static/css/main.25485dcf.css.map",
+    "main.b348dc4d.js.map": "/Gif-guide/static/js/main.b348dc4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25485dcf.css",
+    "static/js/main.b348dc4d.js"
+  ]
+}
